@@ -6,7 +6,7 @@ import operator
 
 apiUrl = "https://api.github.com/"
 
-credentials = ("", "")
+credentials = ("github-username", "password")
 
 user = sys.argv[1]
 date = sys.argv[2]
